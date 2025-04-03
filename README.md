@@ -1,6 +1,6 @@
 # 8bit Connect4
 
-![](https://github.com/haziq-exe/ConnectFour/blob/master/Extras/GameDemonstration.gif))
+![](https://github.com/haziq-exe/ConnectFour/blob/master/Extras/GameDemonstration.gif)
 
 **Project Duration**: 2-3 Days
 
